@@ -1,8 +1,9 @@
 Other resources that can assist this research:
 
 # Account Abstraction:
+Account abstraction enables accounts to decide how they pay for the gas, paying with tokens is still a challenge with this but it is a move in th right direction
 - first (old): https://eips.ethereum.org/EIPS/eip-86
-- latest: ethereum/EIPs#859
+- latest: https://github.com/ethereum/EIPs/issues/859
 
 # Identity Management
 https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1077.md
