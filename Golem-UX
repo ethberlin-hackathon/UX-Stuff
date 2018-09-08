@@ -1,2 +1,9 @@
+Other resources that can assist this research:
 
-Golem's current approach to UX, and the way ahead. Coming soon.
+https://eips.ethereum.org/EIPS/eip-86
+ ethereum/EIPs#859 
+https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1077.md
+https://safe.gnosis.io/
+https://gnosis-safe.readthedocs.io/en/latest/services/relay.html
+https://medium.com/@austin_48503/ethereum-meta-transactions-90ccf0859e84
+https://github.com/status-im/contracts/blob/73-economic-abstraction/contracts/identity/IdentityGasRelay.sol
