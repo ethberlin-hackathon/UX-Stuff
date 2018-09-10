@@ -1,3 +1,6 @@
+# golem presentation:
+https://github.com/ethberlin-hackathon/UX-Stuff/files/2363314/Presentation.ETHberlin.pdf
+
 Other resources that can assist this research:
 
 # Account Abstraction:
